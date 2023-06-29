@@ -6,6 +6,6 @@
 ## Компилирование и запуск
 ```cd inf_sem_4```
 
-```gcc dec_to_hex.c dth_funcs.c -o dec_to_hex.exe```
+```gcc dec_to_hex.c dth_functions.c -o dec_to_hex.exe```
 
 ```.\dec_to_hex.exe```
